@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/salaryassi.github.io/static/css/main.f855e6bc.css",
+    "main.js": "/salaryassi.github.io/static/js/main.c043b515.js",
+    "static/js/453.ad6eb26e.chunk.js": "/salaryassi.github.io/static/js/453.ad6eb26e.chunk.js",
+    "index.html": "/salaryassi.github.io/index.html",
+    "main.f855e6bc.css.map": "/salaryassi.github.io/static/css/main.f855e6bc.css.map",
+    "main.c043b515.js.map": "/salaryassi.github.io/static/js/main.c043b515.js.map",
+    "453.ad6eb26e.chunk.js.map": "/salaryassi.github.io/static/js/453.ad6eb26e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.c043b515.js"
+  ]
+}
